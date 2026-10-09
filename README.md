@@ -103,9 +103,9 @@ I am a passionate **Frontend Developer** from Sri Lanka, dedicated to crafting b
 
 - [x] Master foundational web technologies (HTML, CSS)
 - [x] Build core programming logic (Java, C#, Python)
-- [ ] Explore modern JavaScript frameworks (React, Vue, or Next.js)
-- [ ] Dive deeper into full-stack backend development
-- [ ] Contribute to major Open Source projects
+- [x] Explore modern JavaScript frameworks (React, Vue, or Next.js)
+- [x] Dive deeper into full-stack backend development
+- [x] Contribute to major Open Source projects
 
 ---
 
