@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&desc=I'm%20Chinthani%20Munasinghe,%20a%20Frontend%20Developer&descAlignY=55&descAlign=62&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&desc=I'm%20Chinthani%20Munasinghe,%20an%20AI%2FML%20Developer&descAlignY=55&descAlign=62&animation=twinkling" width="100%"/>
 
 # 🚀 Chinthani Munasinghe
 
-### 💻 Passionate Frontend Developer | 🎨 UI/UX Enthusiast | 🇱🇰 Based in Sri Lanka
+### 💻 Passionate AI/ML Developer | 🤖 Data Science Enthusiast | 🇱🇰 Based in Sri Lanka
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;Creative+Problem+Solver;UI%2FUX+Enthusiast;Always+Learning+New+Technologies)](https://readme-typing-svg.herokuapp.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=AI%2FML+Developer;Creative+Problem+Solver;Data+Science+Enthusiast;Always+Learning+New+Technologies)](https://readme-typing-svg.herokuapp.com)
 
 <p>
   <a href="https://linkedin.com/in/chinthani-munasinghe">
@@ -27,18 +27,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding animation" width="400"/>
 </div>
 
-I am a passionate **Frontend Developer** from Sri Lanka, dedicated to crafting beautiful, accessible, and high-performance user interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
+I am a passionate **AI/ML Developer** from Sri Lanka, dedicated to crafting intelligent, scalable, and high-performance machine learning models. I love turning complex data into actionable insights and intelligent solutions.
 
-* 🎯 **Goal**: Build scalable web applications and master full-stack development.
-* 🔭 **Currently focusing on**: Advanced UI/UX concepts and modern JavaScript frameworks.
-* 🌱 **Always learning**: Exploring new frontend trends and backend integrations.
+* 🎯 **Goal**: Build scalable AI applications and master deep learning.
+* 🔭 **Currently focusing on**: Advanced ML concepts and modern AI frameworks.
+* 🌱 **Always learning**: Exploring new AI trends and data science techniques.
 * 💡 **Philosophy**: "Simplicity is the soul of efficiency."
 
 ---
 
 ## 🚧 Current Status
 
-> 🚀 **Developer Status:** Actively learning, coding, and seeking new opportunities in Frontend Development.
+> 🚀 **Developer Status:** Actively learning, coding, and seeking new opportunities in AI/ML Development.
 
 ---
 
@@ -46,7 +46,7 @@ I am a passionate **Frontend Developer** from Sri Lanka, dedicated to crafting b
 
 | Skill Area | Description |
 | :--- | :--- |
-| 🎨 **Frontend Design** | Creating responsive, modern UI/UX with HTML, CSS, and Figma. |
+| 🤖 **AI & Data Science** | Creating intelligent models with Python, TensorFlow, and PyTorch. |
 | ⚙️ **Core Programming** | Building robust logic using C, C#, Java, and Python. |
 | 🗄️ **Data Management** | Designing and querying databases using MongoDB and MySQL. |
 | 🔌 **Hardware & Embedded** | Experimenting with embedded systems through Arduino. |
@@ -57,10 +57,11 @@ I am a passionate **Frontend Developer** from Sri Lanka, dedicated to crafting b
 
 <div align="center">
 
-### 🎨 Frontend & UI/UX
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### 🤖 AI/ML & Data Science
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 ### ⚙️ Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -101,11 +102,11 @@ I am a passionate **Frontend Developer** from Sri Lanka, dedicated to crafting b
 
 ## 🗺️ Developer Roadmap
 
-- [x] Master foundational web technologies (HTML, CSS)
+- [x] Master foundational AI/ML concepts and math
 - [x] Build core programming logic (Java, C#, Python)
-- [x] Explore modern JavaScript frameworks (React, Vue, or Next.js)
-- [x] Dive deeper into full-stack backend development
-- [x] Contribute to major Open Source projects
+- [ ] Explore modern Machine Learning frameworks (TensorFlow, PyTorch)
+- [ ] Dive deeper into Deep Learning and Natural Language Processing
+- [ ] Contribute to major Open Source projects
 
 ---
 
